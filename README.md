@@ -1,7 +1,7 @@
-# CalHacksLLM
+# CalHacksLLM  - https://www.youtube.com/watch?v=SkapYN90mng
 
-**Inspiration
-**
+##Inspiration
+
 AI is only truly intelligent when it solves your problems before you ask them. Our idea for SPECTRE (Sentient Personalized Emotionally Cognitive Task and Response Engine) came while we were building an adjacent product that was targeted to help people with neurodegenerative diseases that made it difficult to interact with their hands.
 
 We realized that using Hume's API, we could actively assess when a user felt a certain emotion, like confusion, and we could automate the detection of what the user was interacting with to enable the LLM to help the user. We drew similarities to Iron Man's JARVIS and saw a vision that went beyond it, as even JARVIS didn't factor in human emotion to visibly alter its ability to interact and engage the user.
