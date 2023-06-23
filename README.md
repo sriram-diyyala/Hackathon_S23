@@ -1,6 +1,6 @@
 # CalHacksLLM  - https://www.youtube.com/watch?v=SkapYN90mng
 
-##Inspiration
+#Inspiration
 
 AI is only truly intelligent when it solves your problems before you ask them. Our idea for SPECTRE (Sentient Personalized Emotionally Cognitive Task and Response Engine) came while we were building an adjacent product that was targeted to help people with neurodegenerative diseases that made it difficult to interact with their hands.
 
